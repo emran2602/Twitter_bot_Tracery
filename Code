@@ -1,0 +1,17 @@
+rules1 = {
+   "origin": ["#menuAdj# #Mcdonalds_menu#", "#menuAdj# #order# #Mcdonalds_menu#", " #order# #Mcdonalds_menu#"],
+   
+    "Mcdonalds_menu" : ["Filet'o'Fish", "Big_Mac", "French Fries", "Onion Rings", "Happy meal", "Chicken Nuggets", "Quarter Pounder", "CheeseBurger"],
+    
+    "menuAdj" : ["Made-For-Kids", "Expired", "Premium", "Dried", "Fresh", "Discounted", "Home-cooked", "Baked"],
+
+    "order": ["#size#", "#Mcdonalds_menu# ","#size#" " and " "#Sides# " " with a cup of " "#extras# " "#Drinks#"],
+    
+    "Drinks" : ["sparkling water", "Powerade", "Unfiltered Water", "Root Beer", "Sprite", "Coke"],
+
+    "Sides" : ["Popcorn Chicken", "Garlic Bread", "dead Rat", "BBQ Wings"],
+    "size" : ["Extra small", "Small", "Regular", "Large","Extra Large"],
+    
+    "extras" : ["cheese-filled", "lettuce-wrapped", "olives-filled", "pickle-filled", "onion-filled", "soggy fries", "dusty pineapple-filled", "Mustard-filled"],
+
+}
